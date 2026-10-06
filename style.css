@@ -1,0 +1,18 @@
+body {
+  /* Links your image file */
+  background-image: url('space_background.jpg'); 
+  /* Centers the image perfectly */
+  background-position: center; 
+  /* Prevents the image from repeating like a grid */
+  background-repeat: no-repeat; 
+  /* Ensures the image fills the entire screen without stretching */
+  background-size: cover; 
+  /* Keeps the image fixed in place while you scroll */
+  background-attachment: fixed; 
+  /* Fallback color in case the image fails to load */
+  background-color: #333333; 
+}
+
+.center-text {
+  text-align: center;
+}
