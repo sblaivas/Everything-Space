@@ -10,9 +10,14 @@ body {
   /* Keeps the image fixed in place while you scroll */
   background-attachment: fixed; 
   /* Fallback color in case the image fails to load */
-  background-color: #333333; 
+  background-color: #0b0e1a; 
+  color: #E8ECF5;  
 }
 
 .center-text {
   text-align: center;
+  color: #5CC8FF;
+  font-size: 4rem;        
+  margin-top: 3rem;      
+  letter-spacing: 0.1em;  
 }
